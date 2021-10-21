@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Igor Semenov</h1>
+<h1 align="center">Hi 👋, I'm Toptal126</h1>
 <h3 align="center">If you are expecting such words as "High Quality", "Clean Code", "In-Time Delivery" I would be the right person.</h3>
 
 - 🔭 I’m currently working on [CyApart](https://github.com/toptal126/CyApart)
