@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Crypto Rookie</h1>
 <h3 align="center">If you are expecting such words as "High Quality", "Clean Code", "In-Time Delivery" I would be the right person.</h3>
 
-- 🔭 I’m currently working on [CyApart](https://github.com/toptal126/CyApart)
+- 🔭 I’m currently working on [UniShovel](https://github.com/toptal126/UniShovel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
