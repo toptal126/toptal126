@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Crypto Rookie</h1>
-<h3 align="center">If you are expecting such words as "High Quality", "Clean Code", "In-Time Delivery" I would be the right person.</h3>
+<h3 align="center">Running through hard pain</h3>
+<h4 align="center">If you are expecting such words as "High Quality", "Clean Code", "In-Time Delivery" I would be the right person.</h4>
 
 - 🔭 I’m currently working on [UniShovel](https://github.com/toptal126/UniShovel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/toptal126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toptal126" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/toptal126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="toptal126" height="30" width="40" /></a>
+<a href="https://medium.com/@acecrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@toptal126" height="30" width="40" /></a>
+<a href="https://t.me/acecrypto11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png?20220331104809" alt="toptal126" height="30" width="30" /></a>
 <a href="https://dribbble.com/toptal126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="toptal126" height="30" width="40" /></a>
-<a href="https://medium.com/@toptal126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@toptal126" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
