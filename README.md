@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on [UniShovel](https://github.com/toptal126/UniShovel)
 
 <h3 align="left">Connect with me:</h3>
-![](https://komarev.com/ghpvc/?username=toptal126)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=toptal126">
+</a>
 <p align="left">
 <a href="https://medium.com/@acecrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@toptal126" height="30" width="40" /></a>
 <a href="https://t.me/acecrypto11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png?20220331104809" alt="toptal126" height="30" width="30" /></a>
@@ -75,3 +77,5 @@
 ### Best Front-end Development with Morden Front-end Frameworks
 ### MERN, MEAN, Laravel&Vue Full-Stack Web Developing
 ### Perfect Web Scraping, Bot building
+
+ ![](https://hit.yhype.me/github/profile?user_id=1849174)
