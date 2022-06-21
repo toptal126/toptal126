@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [UniShovel](https://github.com/toptal126/UniShovel)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://komarev.com/ghpvc/?username=toptal126">
     <img src="https://komarev.com/ghpvc/?username=toptal126">
 </a>
 
