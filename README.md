@@ -1,5 +1,4 @@
 <h3 align="center">Running through hard pain</h3>
-<h4 align="center">If you are expecting such words as "High Quality", "Clean Code", "In-Time Delivery" I would be the right person.</h4>
 
 - 🔭 I’m currently working on [UniShovel](https://github.com/toptal126/UniShovel)
 
