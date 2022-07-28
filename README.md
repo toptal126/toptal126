@@ -15,7 +15,7 @@
 </p>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=toptal126)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toptal126)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toptal126&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
