@@ -14,6 +14,8 @@
 <a href="mailto:toptal126@gmail.com" target="blank"><img align="center" src="https://pngroyale.com/wp-content/uploads/2021/11/Download-gmail-email-logo-png-1-1-768x555.png" alt="toptal126" height="30" width="40" /></a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toptal126)](https://git.io/streak-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
