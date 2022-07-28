@@ -14,8 +14,9 @@
 <a href="mailto:toptal126@gmail.com" target="blank"><img align="center" src="https://pngroyale.com/wp-content/uploads/2021/11/Download-gmail-email-logo-png-1-1-768x555.png" alt="toptal126" height="30" width="40" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toptal126&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toptal126&show_icons=true&theme=radical&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toptal126&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toptal126)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
