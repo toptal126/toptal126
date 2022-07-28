@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toptal126&show_icons=true&theme=radical&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toptal126&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toptal126)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toptal126?hide=PHP,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
