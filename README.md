@@ -32,6 +32,9 @@
 <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
 
 
+
+<img alt="toptal126's Github contribution" src="https://github.com/toptal126/toptal126/blob/output/github-contribution-grid-snake.gif"/>
+
 ## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
