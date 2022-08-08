@@ -18,7 +18,7 @@
 ## **My Contributrion this Year**
 <img alt="toptal126's Github contribution" src="https://github.com/toptal126/toptal126/blob/output/github-contribution-grid-snake.gif"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toptal126&hide=PHP,html&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toptal126&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toptal126&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <h3 align="left">Languages and Tools:</h3>
