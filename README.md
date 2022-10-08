@@ -13,7 +13,3 @@
 <a href="https://t.me/kadena_engineer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png?20220331104809" alt="toptal126" height="30" width="30" /></a>
 <a href="mailto:cryptokuinka@gmail.com" target="blank"><img align="center" src="https://pngroyale.com/wp-content/uploads/2021/11/Download-gmail-email-logo-png-1-1-768x555.png" alt="cryptokuinka" height="30" width="40" /></a>
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toptal126&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toptal126&theme=radical&hide_border=true)](https://git.io/streak-stats)
