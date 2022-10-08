@@ -1,4 +1,4 @@
-<h3 align="center">[Tezos Collect](https://tezoscollect.io) will be alive soon</h3>
+<h3 align="center">[Tezos Collect](https://tezoscollect-staging.netlify.app) will be alive soon</h3>
 <h4 align="center">💸💸💸💸Prepare your Tezos Domains to sell at [Tezos Collect](https://tezoscollect.io)💸💸💸💸.</h4>
 
 - 🔭 I’m currently working on [Tezos Collect](https://tezoscollect-staging.netlify.app), [Kadido Protocol](https://kadido.com), [UniShovel](https://github.com/toptal126/UniShovel), and [Iframable PCS Swap](https://github.com/toptal126/Iframable-Pancakeswap)
