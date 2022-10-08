@@ -7,4 +7,4 @@
     <img src="https://komarev.com/ghpvc/?username=toptal126">
 </a>
 
-## [Contact Me](https://linktr.ee/dapp_engineer)
+## [Contact Me - https://linktr.ee/dapp_engineer](https://linktr.ee/dapp_engineer)
