@@ -1,5 +1,5 @@
-# [Tezos Collect](https://tezoscollect-staging.netlify.app) will be alive soon
-## 💸💸💸💸Prepare your Tezos Domains to earn ꜩ at [Tezos Collect](https://tezoscollect.io)💸💸💸💸.
+# 🙋‍♀️ [Tezos Collect](https://tezoscollect.io)  IS LIVE NOW!!! 💎
+## 💸💸💸💸List your Tezos Domains to earn ꜩ at [Tezos Collect](https://tezoscollect.io)💸💸💸💸.
 
 - 🔭 I’m currently working on [Tezos Collect](https://tezoscollect-staging.netlify.app), [Kadido Protocol](https://kadido.com), [UniShovel](https://github.com/toptal126/UniShovel), and [Iframable PCS Swap](https://github.com/toptal126/Iframable-Pancakeswap)
 
