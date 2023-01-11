@@ -3,14 +3,14 @@
 
 - Projects
 
-[Kadido Protocol - Web3 Social](https://kadido.com)
+[Kadido Protocol  (Web3 Social)](https://kadido.com)
 
-[TitanX Protocol - DeFi Launchpad](https://titanx.org)
+[TitanX Protocol  (DeFi Launchpad)](https://titanx.org)
 
-[CrossWise Finance - Cross-Chain DEX](https://crosswise.finance)
+[CrossWise Finance  (Cross-Chain DEX)](https://crosswise.finance)
 
-[UniShovel - CoinPrice History](https://github.com/toptal126/UniShovel)
+[UniShovel  (CoinPrice History)](https://github.com/toptal126/UniShovel)
 
-[Iframable PCS Swap - Integrate DEX UI into you Dapp in 5 second](https://github.com/toptal126/Iframable-Pancakeswap)
+[Iframable PCS Swap  (Embed DEX UI into you Dapp in 5 second)](https://github.com/toptal126/Iframable-Pancakeswap)
 
 #### [Contact Me - Linktree (Dapp-Engineer)](https://linktr.ee/dapp_engineer)
