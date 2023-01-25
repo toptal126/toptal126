@@ -3,6 +3,10 @@
 
 - Projects
 
+[Huntz Metaverse ](https://huntz.xyz)
+
+[Pikachu Finance  (NFT Lending Platform)](https://staging.pikachu.fi)
+
 [Kadido Protocol  (Web3 Social)](https://kadido.com)
 
 [TitanX Protocol  (DeFi Launchpad)](https://titanx.org)
