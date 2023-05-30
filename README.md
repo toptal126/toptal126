@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on [Pikachu Finance](https://staging.pikachu.fi), and [Tezos Collect V2](https://tezoscollect.io)
 
 - Projects
-
+- 
 [Huntz Metaverse ](https://huntz.xyz)
 
 [Pikachu Finance  (NFT Lending Platform)](https://staging.pikachu.fi)
