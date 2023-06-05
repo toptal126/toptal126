@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on [Pikachu Finance](https://staging.pikachu.fi), and [Tezos Collect V2](https://tezoscollect.io)
+- 🔭 I’m currently working on [Tezos Collect V2](https://tezoscollect.io)
 
 - Projects
 
