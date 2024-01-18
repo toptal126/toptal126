@@ -3,13 +3,9 @@
 
 - Projects
 
-[Huntz Metaverse ](https://huntz.xyz)
+[GangsOfTheMeta](https://gangsofthemeta.io)
 
-[Pikachu Finance  (NFT Lending Platform)](https://staging.pikachu.fi)
-
-[Kadido Protocol  (Web3 Social)](https://kadido.com)
-
-[TitanX Protocol  (DeFi Launchpad)](https://titanx.org)
+[Huntz Metaverse ](https://discord.gg/huntznft)
 
 [CrossWise Finance  (Cross-Chain DEX)](https://crosswise.finance)
 
@@ -19,3 +15,8 @@
 
 [Connect me on Discord](https://discordapp.com/users/1033931841658421370)
 
+[Pikachu Finance  (NFT Lending Platform)](https://staging.pikachu.fi)
+
+[Kadido Protocol  (Web3 Social)](https://kadido.com)
+
+[TitanX Protocol  (DeFi Launchpad)](https://titanx.org)
