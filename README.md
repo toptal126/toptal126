@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on [Tezos Collect V2](https://tezoscollect.io)
+- 🔭 I’m currently working on [Tezos Projects](https://tezoscollect.io)
 
 - Projects
 
