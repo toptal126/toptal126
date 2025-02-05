@@ -1,6 +1,4 @@
 
-- 🔭 I’m currently working on [Bit Check](https://dextrolab.com/)
-
 - Projects
 
 [GangsOfTheMeta](https://gangsofthemeta.io)
