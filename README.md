@@ -1,8 +1,8 @@
 ## Hi 👋, I'm toptal126
 
 ### 🚀 About Me
-- 🔧 Senior Fullstack Developer at [GangsOfTheMeta](https://play.gangsofthemeta.io)
-- 🎮 AI Researcherat [Aalto University](https://research.aalto.fi/en/organisations/computer-science-artificial-intelligence-and-machine-learning-aim)
+- 🔧 Fullstack Lead at [GangsOfTheMeta](https://play.gangsofthemeta.io)
+- 🎮 AI Researcher at [Aalto University](https://research.aalto.fi/en/organisations/computer-science-artificial-intelligence-and-machine-learning-aim)
 - 🤖 Passionate about Blockchain, AI, Web3, Microservices
 
 ---
@@ -19,9 +19,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ### Blockchain
@@ -56,13 +55,3 @@ A historical price tracker for cryptocurrencies, built with Web3 and React.
 ### [Iframable PCS Swap](https://github.com/toptal126/Iframable-Pancakeswap)
 Easily embed a decentralized exchange UI into your dApp in just seconds.
 
----
-
-## 🌟 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toptal126&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toptal126&layout=compact&theme=radical)
-
----
-
-### 🚀 Thanks for stopping by!
-![Visitor Count](https://profile-counter.glitch.me/toptal126/count.svg)
