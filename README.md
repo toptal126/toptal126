@@ -4,6 +4,8 @@
 - 🔧 Fullstack Lead at [GangsOfTheMeta](https://play.gangsofthemeta.io)
 - 🎮 AI Researcher at [Aalto University](https://research.aalto.fi/en/organisations/computer-science-artificial-intelligence-and-machine-learning-aim)
 - 🤖 Passionate about Blockchain, AI, Web3, Microservices
+- 🚀 Proudly launched my personal project [Kadido](https://kadido-bsc.netlify.app/)
+
 
 ---
 
