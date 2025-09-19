@@ -16,10 +16,3 @@ My journey began when I realized computers were just overgrown calculators with 
 - I believe **the best tech solves problems—and makes you grin while doing it**  
 
 Let's build the future. *(Preferably one where robots bring us coffee.)*  
-
----  
-
-### **🎯 Where to Find Me**  
-📫 **Collabs/Questions:** [cryptokuinka@gmail.com](mailto:cryptokuinka@gmail.com)  
-🐦 **Shower thoughts:** [Twitter](https://x.com/web3_pop)  
-🌍 **Current Domain:** [ForgeAI](https://forgeonchain.com)  
